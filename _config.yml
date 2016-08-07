@@ -1,0 +1,14 @@
+layout_spectrum: 0.3616319166030735
+typography_spectrum: 0.1621979856863618
+color:
+  brandStrength: 0.30710629071108997
+  lightness: 0.028572372160851955
+  saturation: 0.10158592578954995
+  rhythmicContrast: 0.45485389209352434
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: PingBeautySalon
